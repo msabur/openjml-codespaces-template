@@ -1,0 +1,10 @@
+EvenArray.java
+FirstEven.java
+MaxArray.java
+MinArray.java
+MultipleOfTwoArray.java
+MultiplesOfThree.java
+OddArray.java
+T_dowhile.java
+T_whileloop.java
+UppercaseChecker.java
