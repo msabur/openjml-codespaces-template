@@ -10,7 +10,9 @@
 		"codespaces": {
 			"repositories": {
 				"msabur/OpenJML": {
-					"permissions": "write-all"
+					"permissions": {
+						"contents": "write"
+					}
 				}
 			}
 		}
